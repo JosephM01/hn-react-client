@@ -1,13 +1,13 @@
 {
-  "main.css": "/hn-react-client/static/css/main.afa91680.chunk.css",
-  "main.js": "/hn-react-client/static/js/main.24b889f0.chunk.js",
-  "main.js.map": "/hn-react-client/static/js/main.24b889f0.chunk.js.map",
+  "main.css": "/hn-react-client/static/css/main.3612e7e9.chunk.css",
+  "main.js": "/hn-react-client/static/js/main.5051c2d5.chunk.js",
+  "main.js.map": "/hn-react-client/static/js/main.5051c2d5.chunk.js.map",
   "runtime~main.js": "/hn-react-client/static/js/runtime~main.10864dd1.js",
   "runtime~main.js.map": "/hn-react-client/static/js/runtime~main.10864dd1.js.map",
   "static/js/2.b0c59061.chunk.js": "/hn-react-client/static/js/2.b0c59061.chunk.js",
   "static/js/2.b0c59061.chunk.js.map": "/hn-react-client/static/js/2.b0c59061.chunk.js.map",
   "index.html": "/hn-react-client/index.html",
-  "precache-manifest.cbe96eb1a56725e31b55f490af92d428.js": "/hn-react-client/precache-manifest.cbe96eb1a56725e31b55f490af92d428.js",
+  "precache-manifest.28a296498988c85bd6ab2d67199140c4.js": "/hn-react-client/precache-manifest.28a296498988c85bd6ab2d67199140c4.js",
   "service-worker.js": "/hn-react-client/service-worker.js",
-  "static/css/main.afa91680.chunk.css.map": "/hn-react-client/static/css/main.afa91680.chunk.css.map"
+  "static/css/main.3612e7e9.chunk.css.map": "/hn-react-client/static/css/main.3612e7e9.chunk.css.map"
 }
